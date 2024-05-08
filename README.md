@@ -8,8 +8,8 @@ Soy un programador novato que entró en el mundo desde hace ya unos años, aun q
 ## Proyectos destacados
 Aquí hay una lista de algunos de los proyectos destacados en los que he trabajado:
 
-- [Nayrion.es](www.nayrion.es): Actualmente trabajando en la página oficial
-- [Nekkowa.nayrion.es](www.nekkowa.nayrion.es) : Página finalizada Versión 1.0
+- [Nayrion.es](nayrion.es) : Actualmente trabajando en la página oficial
+- [Nekkowa.nayrion.es](nekkowa.nayrion.es) : Página finalizada Versión 1.0
 
 ## Tecnologías que domino
 A lo largo de mi carrera como desarrollador, he adquirido experiencia en diversas tecnologías, incluyendo:
