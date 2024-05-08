@@ -17,6 +17,8 @@ A lo largo de mi carrera como desarrollador, he adquirido experiencia en diversa
 - ![Color2](https://placehold.it/15/ColorHex2/000000?text=+) Css
 - ![Color3](https://placehold.it/15/ColorHex3/000000?text=+) Tailwind
 - ![Color4](https://placehold.it/15/ColorHex4/000000?text=+) Java
+- ![Color4](https://placehold.it/15/ColorHex4/000000?text=+) Astro
+- ![Color4](https://placehold.it/15/ColorHex4/000000?text=+) Currently Javascript
 
 ## Colaboración
 Si estás interesado/a en colaborar en alguno de mis proyectos o tienes alguna sugerencia, no dudes en contactarme. Estoy abierto/a a nuevas ideas y oportunidades de aprendizaje.
